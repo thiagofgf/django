@@ -809,4 +809,3 @@ msgstr "Selecione %s"
 #, python-format
 msgid "Select %s to change"
 msgstr "Selecione %s para modificar"
-a
