@@ -351,7 +351,7 @@ msgstr "%(name)s"
 
 #: templates/admin/base.html:28
 msgid "Welcome,"
-msgstr "Bem vindo,"
+msgstr "Bem vindo FDP,"
 
 #: templates/admin/base.html:33
 #: templates/registration/password_change_done.html:4
