@@ -1145,3 +1145,7 @@ msgstr "Página inválida ( %(page_number)s )"
 #, python-format
 msgid "Empty list and '%(class_name)s.allow_empty' is False."
 msgstr "Lista vazia e '%(class_name)s.allow_empty' é False."
+
+#: templates/catalog.djhtml:48
+msgid "BRAND"
+msgstr "MARCA"
